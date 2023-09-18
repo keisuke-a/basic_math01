@@ -1,3 +1,6 @@
+import sys
+sys.path.append("./langchain")
+
 # 以下を「app.py」に書き込み
 import streamlit as st
 import openai
