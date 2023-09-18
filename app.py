@@ -1,6 +1,3 @@
-#pip install langchain
-#pip install openai
-
 # 以下を「app.py」に書き込み
 import streamlit as st
 import openai
