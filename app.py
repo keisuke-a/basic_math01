@@ -1,5 +1,5 @@
-pip install langchain==0.0.218
-pip install openai==0.27.8
+pip install langchain
+pip install openai
 
 # 以下を「app.py」に書き込み
 import streamlit as st
